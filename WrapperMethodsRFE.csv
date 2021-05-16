@@ -1,0 +1,9 @@
+Feature,Feature Ranking (2 Features),Feature Ranking (3 Features)
+Temperature,5.0,4.0
+Relative Humidity,6.0,5.0
+Solar Radiation,7.0,6.0
+Holiday,1.0,1.0
+Power-1,2.0,1.0
+Hour,1.0,1.0
+Week Day,3.0,2.0
+Month,4.0,3.0
