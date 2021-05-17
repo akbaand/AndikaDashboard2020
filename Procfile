@@ -1,0 +1,1 @@
+web: gunicorn AndikaAkbar_ProjectDashboard_Ver3_SideBar:server
